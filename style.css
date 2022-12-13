@@ -9,7 +9,10 @@ body {
       width: 1224px;
       margin: 0 auto;
 }
-
+a {
+      text-decoration: none;
+      color: inherit;
+}
 h2 {
       margin: 0;
       font-weight: 500;
